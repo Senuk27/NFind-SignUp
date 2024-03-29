@@ -30,7 +30,6 @@ function LoginPage() {
     >
             <Box
                 sx={{
-                    borderRadius: 3,
                     backgroundColor: "white",
                 }}
             >
